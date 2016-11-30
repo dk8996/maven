@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.twitter4j</groupId>
+  <artifactId>twitter4j-async</artifactId>
+  <version>4.0.5</version>
+  <versioning>
+    <versions>
+      <version>4.0.5</version>
+    </versions>
+    <lastUpdated>20161130224546</lastUpdated>
+  </versioning>
+</metadata>
