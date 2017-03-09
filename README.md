@@ -11,4 +11,6 @@
 ```
 
 # SBT
-`libraryDependencies += "org.twitter4j" % "twitter4j-core" % "4.0.5-dk8996-10"`
+```scala
+libraryDependencies += "org.twitter4j" % "twitter4j-core" % "4.0.5-dk8996-10"
+```
