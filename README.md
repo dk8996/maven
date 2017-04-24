@@ -6,11 +6,11 @@
 <dependency>
     <groupId>org.twitter4j</groupId>
     <artifactId>twitter4j-core</artifactId>
-    <version>4.0.5-dk8996-10</version>
+    <version>4.0.6-dk8996-1</version>
 </dependency>
 ```
 
 # SBT
 ```scala
-libraryDependencies += "org.twitter4j" % "twitter4j-core" % "4.0.5-dk8996-10"
+libraryDependencies += "org.twitter4j" % "twitter4j-core" % "4.0.6-dk8996-1"
 ```
